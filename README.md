@@ -33,12 +33,12 @@
 <p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
 <!-- 比较好的开源项目卡片 -->
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/sun0225SUN/Awesome-Love-Code">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/sun0225SUN/Student-Data-Vision">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
+</div> -->
 
 💪 正在学习: 
 
